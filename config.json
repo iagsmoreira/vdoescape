@@ -1,0 +1,31 @@
+{
+  "geral": {
+    "senha": "escape1445",
+    "novideo": true,
+    "mute": true,
+    "gain": 400,
+    "agc": 0,
+    "aec": 0,
+    "denoise": 0,
+    "dispositivo_prioridade_1": "Comunicações - Grupo de microfones (Realtek(R) Audio)",
+    "dispositivo_prioridade_2": "Usb Microfone 2.0"
+  },
+  "salas": {
+    "T-VIRUS": { "streamId": "TVIRUS" },
+    "EXCALIBUR": { "streamId": "EXCALIBUR" },
+    "BATMAN": { "streamId": "BATMAN" },
+    "MUNDO INVERTIDO": { "streamId": "MUNDOINVERTIDO" },
+    "EMBOSCADA": { "streamId": "EMBOSCADA" },
+    "MALDIÇÃO PIRATA": { "streamId": "PIRATAS" },
+    "ESCAPE MORTAL": { "streamId": "ESCAPEMORTAL" },
+    "SAMHAIN": { "streamId": "SAMHAIN" },
+    "BATMAN SEGUNDO ALVO": { "streamId": "BATMAN2" },
+    "ORDEM JEDI": { "streamId": "JEDI" },
+    "CANIBAL AMERICANO": { "streamId": "CANIBAL" },
+    "MISTÉRIOS S.A.": { "streamId": "SCOOBY" },
+    "BUNKER": { "streamId": "BUNKER" },
+    "SHERLOCK HOLMES": { "streamId": "SHERLOCK" },
+    "ORÁCULO": { "streamId": "ORACULO" },
+    "PRISON BREAK": { "streamId": "PRISON" }
+  }
+}
