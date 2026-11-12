@@ -7,8 +7,8 @@
     "agc": 0,
     "aec": 0,
     "denoise": 0,
-    "dispositivo_prioridade_1": "Alto-falantes (Waldman Audio Interface)",
-    "dispositivo_prioridade_2": "Comunicações - Microfone (2- USBAudio2.0) (4c4a:4155)"
+    "dispositivo_prioridade_1": "Comunicações - Microfone (2- USBAudio2.0) (4c4a:4155)",
+    "dispositivo_prioridade_2": "Alto-falantes (Waldman Audio Interface)"
   },
   "salas": {
     "T-VIRUS": { "streamId": "TVIRUS" },
